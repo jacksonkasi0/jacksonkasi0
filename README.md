@@ -12,9 +12,9 @@
 <br/>
 
 
-<a href="https://www.instagram.com/jacksonkasi555/" title="#Instagram Jacksonkasi555 " ><img src="https://github.com/nandhahacker1/img/blob/main/png-clipart-logo-computer-icons-instagram-instagram-application-logo-text-trademark-removebg-preview.png" width="50" /></a>
-<a href="https://dribbble.com/Jacksonkasi555" title="#Dribble Jacksonkasi555 " ><img src="https://github.com/nandhahacker1/img/blob/main/png-clipart-dribbble-logo-graphic-design-design-purple-logo-removebg-preview.png" width="80" /></a>
-<a href="https://www.youtube.com/channel/UCVkmibxIF-uFmKTpDvZdDIw" title="#Youtube Art Thamizha"  ><img src="https://github.com/nandhahacker1/img/blob/main/png-clipart-youtube-logo-youtube-angle-logo-removebg-preview.png" width="80" /></a>
-<a href="https://www.linkedin.com/in/jackson-kasi-6217541b8/" title="#Linkedin Jackson-kasi" ><img src="https://github.com/nandhahacker1/img/blob/main/png-clipart-in-logo-linkedin-diduco-ab-icon-linkedin-blue-angle-removebg-preview.png"  width="70" /></a>
-<a href="https://twitter.com/Jacksonkasi11" title="#Instagram Jacksonkasi111" ><img src="https://github.com/nandhahacker1/img/blob/main/png-clipart-clay-os-6-a-macos-icon-twitter-tweeter-icon-removebg.png" width="60" /></a>
+<a href="https://www.instagram.com/jacksonkasi555/" title="#Instagram Jacksonkasi555 " ><img src="https://github.com/jacksonkasi0/img/blob/main/_Pngtree_colorful_modern_social_media_icon_5103514-removebg-preview.png" width="50" /></a>
+<a href="https://www.linkedin.com/in/jackson-kasi-6217541b8/" title="#Linkedin Jackson-kasi" ><img src="https://github.com/jacksonkasi0/img/blob/main/_Pngtree_colorful_modern_social_media_icon_5103514-removebg-preview%20(2).png"  width="50" /></a>
+<a href="https://twitter.com/Jacksonkasi11" title="#Instagram Jacksonkasi111" ><img src="https://github.com/jacksonkasi0/img/blob/main/_Pngtree_colorful_modern_social_media_icon_5103514-removebg-preview%20(3).png" width="50" /></a>
 
+<!-- <a href="https://dribbble.com/Jacksonkasi555" title="#Dribble Jacksonkasi555 " ><img src="https://github.com/nandhahacker1/img/blob/main/png-clipart-dribbble-logo-graphic-design-design-purple-logo-removebg-preview.png" width="80" /></a> -->
+<!-- <a href="https://www.youtube.com/channel/UCVkmibxIF-uFmKTpDvZdDIw" title="#Youtube Art Thamizha"  ><img src="https://github.com/nandhahacker1/img/blob/main/png-clipart-youtube-logo-youtube-angle-logo-removebg-preview.png" width="80" /></a> -->
