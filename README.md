@@ -11,6 +11,17 @@
 
 ![Jackson Kasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonkasi0&show_icons=true&theme=radical)
 
+<br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacksonkasi0" alt="Views" /> </p>
+
+
+### GITHUB TROPHIES
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jacksonkasi0)](https://github.com/ryo-ma/github-profile-trophy)<br>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jacksonkasi0)  
+
 
 **Follow us on~**
 <br/>
