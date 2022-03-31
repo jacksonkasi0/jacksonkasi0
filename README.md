@@ -67,8 +67,7 @@
 
 ## STATUS 👀
 
-![Jackson Kasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonkasi0&&show_icons=true&count_private=true&include_all_commits=true)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jacksonkasi0)  
+![Jackson Kasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonkasi0&&show_icons=true&count_private=true&include_all_commits=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jacksonkasi0)  
 
 <br/>
 
