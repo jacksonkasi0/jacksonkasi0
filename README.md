@@ -83,19 +83,19 @@
 
 <a href="https://www.instagram.com/jacksonkasi555/" title="#Instagram Jacksonkasi555 " ><img src="https://github.com/jacksonkasi0/img/blob/main/_Pngtree_colorful_modern_social_media_icon_5103514-removebg-preview.png" width="50" /></a>
 <a href="https://www.linkedin.com/in/jackson-kasi-6217541b8/" title="#Linkedin Jackson-kasi" ><img src="https://github.com/jacksonkasi0/img/blob/main/_Pngtree_colorful_modern_social_media_icon_5103514-removebg-preview%20(2).png"  width="50" /></a>
-<a href="https://twitter.com/Jacksonkasi11" title="#Instagram Jacksonkasi111" ><img src="https://github.com/jacksonkasi0/img/blob/main/_Pngtree_colorful_modern_social_media_icon_5103514-removebg-preview%20(3).png" width="50" /></a>
+<a href="" title="#Instagram Jacksonkasi111" ><img src="https://github.com/jacksonkasi0/img/blob/main/_Pngtree_colorful_modern_social_media_icon_5103514-removebg-preview%20(3).png" width="50" /></a>
 
 
 ### Connect with me:
 
-[![Blog](./img/globe-light.svg)](https://dev.to/jacksonkasi#gh-light-mode-only)
-[![Blog](./img/globe-dark.svg)](https://dev.to/jacksonkasi#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://dev.to/jacksonkasi#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://dev.to/jacksonkasi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/Jacksonkasi11#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Jacksonkasi11#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jacksonkasi#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jacksonkasi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/jacksonkasi555#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/jacksonkasi555#gh-dark-mode-only)
