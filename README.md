@@ -76,15 +76,7 @@
 
 </details>
 
-
-**Follow us on~**
 <br/>
-
-
-<a href="https://www.instagram.com/jacksonkasi555/" title="#Instagram Jacksonkasi555 " ><img src="https://github.com/jacksonkasi0/img/blob/main/_Pngtree_colorful_modern_social_media_icon_5103514-removebg-preview.png" width="50" /></a>
-<a href="https://www.linkedin.com/in/jackson-kasi-6217541b8/" title="#Linkedin Jackson-kasi" ><img src="https://github.com/jacksonkasi0/img/blob/main/_Pngtree_colorful_modern_social_media_icon_5103514-removebg-preview%20(2).png"  width="50" /></a>
-<a href="" title="#Instagram Jacksonkasi111" ><img src="https://github.com/jacksonkasi0/img/blob/main/_Pngtree_colorful_modern_social_media_icon_5103514-removebg-preview%20(3).png" width="50" /></a>
-
 
 ### Connect with me:
 
