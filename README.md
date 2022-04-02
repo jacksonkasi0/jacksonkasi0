@@ -9,7 +9,7 @@
 
 
 <a href="https://dev.to/jacksonkasi" target="_blank" ><img height="30" src="https://github.com/jacksonkasi0/img/blob/main/23492d49eefc1794c50377c2613baa00-removebg-preview%20(2).png?raw=true" /></a>
-[![mail](https://img.shields.io/badge/MAIL-F9E000?style=for-the-badge&logo=GMAIL&logoColor=%23000000)](mailto:nammalvar888@gmail.com)
+<a href="mailto:nammalvar888@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/MAIL-F9E000?style=for-the-badge&logo=GMAIL&logoColor=%23000000" /></a>
 
 
 ## 📚 Technologies
