@@ -1,83 +1,34 @@
 
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" margin-left="200px">, I am **Jackson Kasi 😀**
+<h2> Hi <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/2411_HZWARHWk0TImR0UBwvuHRUXPorcBwWs1.gif" width="40px" height="40px" > I am  Jackson Kasi <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/2311_1hGcwOlOK6CDJaItpeRaYzO1Lh8DPFFK.gif" width="40px" height="40px" /></h2>
+<h4>And a good Fullstack Developer</h4>
+<p>Completed school,  no college. But I am a learner until death <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3106_9qTxA57k7StZYhBXKh2beVpviSqO5Anr.gif" height="30px" width="30px" />
 <br/>
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="165px" />    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonkasi0&layout=compact"  margin-left="-100px" />
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="165px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonkasi0&layout=compact"  margin-left="-100px" />
 
-![Last Modified](<https://img.shields.io/badge/Last%20Modified-2022/03/31%2000:15%20(IST)-%23121212?style=flat>)    
-<p align="left"><img src="https://komarev.com/ghpvc/?username=jacksonkasi0" alt="Views" /><p/>
-
-
-<a href="https://dev.to/jacksonkasi" target="_blank" ><img height="30" src="https://github.com/jacksonkasi0/img/blob/main/23492d49eefc1794c50377c2613baa00-removebg-preview%20(2).png?raw=true" /></a>
-<a href="mailto:nammalvar888@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/MAIL-F9E000?style=for-the-badge&logo=GMAIL&logoColor=%23000000" /></a>
+<span align="left"><img src="https://komarev.com/ghpvc/?username=jacksonkasi0" alt="Views" /><span/>   ![Last Modified](<https://img.shields.io/badge/Last%20Modified-2022/03/31%2000:15%20(IST)-%23121212?style=flat>)
 
 
-## 📚 Technologies
+<a href="https://dev.to/jacksonkasi" target="_blank" ><img width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-x9ufWwD2I5lfAm1ud5f-qJQqgPUqIVrEXEI7VrgMAz_PfhbjtVJ_sOM&s=10" /></a>
+<a href="mailto:nammalvar888@gmail.com" target="_blank" ><img  width="40px"   src="https://d3qhp42p4neron.cloudfront.net/7.0/png/unicode/512/1f48c.png?Expires=1658175153&Signature=Q9HNgjwpL18DX1ZAXbBoqg8LS3jYm9CZ~0ZRa85GLws0nrv0bjabiMYgeZVJMLUt5zIS9lVCLXb9MV~0hCH0cHKFbYzdZquWkams6YmahBAnznJJ-GwhJpIk3U-KeA-QPyyKs~~NWwKMTrNcG7IZer5EutBhXvaWDgHSdM9OyQR8WJULHr-BckQRQdHKVqB1CnGWj3rRGlnYVcSM0O~v0RE6uIXDo~F~DJTAi3H57N1D-2cmJvwCwTp4-Z3Zl54HrVstBHZwOKe8QW1SFiNykmaICNgXddEKDug5C5Z-XydHsNIQAdDn~-Nbl~iA-VeCdO0MwVXFxrXwN~iVoLx31Q__&Key-Pair-Id=APKAIRGCVGOY7DOKYTJA" /></a>
 
-<details>
-<summary>View</summary>
+
+## 👨‍💻 Technologies
   
-  
-### Languages 📖
+<p align="center">
+  <a href="https://dev.to/jacksonkasi">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,mui,tailwind,js,react,nextjs,redux,nodejs,express,graphql,apollo,mongodb,firebase,azure,netlify,heroku,vercel,git,github,gitlab,vscode&perline=8" />
+  </a>
+</p>
 
-![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-  
-### Frameworks, Libraries, etc... 🛠
+<p>Upcoming technology soon... ♾ </p>
 
-![react](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=white)
-![jquery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-8412F1?style=for-the-badge&logo=bootstrap&logoColor=white)
-  
-### Databases 💾
+## GitHub Status ⚡ 
 
-![Firebase](https://img.shields.io/badge/firebase%20-%2320232a.svg?&style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Version Control 🕹
-
-![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-
-### Tools ⚙
-
- ![VS Code](https://img.shields.io/badge/vsc-005FED?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
- ![Postman](https://img.shields.io/badge/postman-FB8C01?style=for-the-badge&logo=postman&logoColor=white)
- 
-  
-### OS 🖥
-
-![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![linux](https://img.shields.io/badge/linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
-![macOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-### Learning 🐱‍👤
-
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />graphql
-<br/>
- <hr/>
-</details>
-
-## GitHub Stats ⚡ 
-
-![Jackson Kasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonkasi0&&show_icons=true&count_private=true&include_all_commits=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jacksonkasi0)
 
 <br/>
 
-## GITHUB TROPHIES 🐱‍💻
-
-<details>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=jacksonkasi0)](https://github.com/ryo-ma/github-profile-trophy)
- <br>
-
-</details>
-
-<br/>
 
 ### Connect with me:
 
