@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<p>Upcoming technology soon... ♾ </p>
+<p>Upcoming technologies soon... ♾ </p>
 
 ## GitHub Status ⚡ 
 
