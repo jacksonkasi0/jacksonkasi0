@@ -1,6 +1,6 @@
 
 <h2> Hi <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/2411_HZWARHWk0TImR0UBwvuHRUXPorcBwWs1.gif" width="40px" height="40px" > I am  Jackson Kasi <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/2311_1hGcwOlOK6CDJaItpeRaYzO1Lh8DPFFK.gif" width="40px" height="40px" /></h2>
-<h4>And a good Fullstack Developer</h4>
+<h4>And a good Fullstack Developer & Artist</h4>
 <p>Completed school,  no college. But I am a learner until death <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3106_9qTxA57k7StZYhBXKh2beVpviSqO5Anr.gif" height="30px" width="30px" />
 <br/>
 
@@ -35,11 +35,11 @@
 [![website](./img/globe-light.svg)](https://dev.to/jacksonkasi#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://dev.to/jacksonkasi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Jacksonkasi11#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Jacksonkasi11#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/jacksonkasi555#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/jacksonkasi555#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/jacksonkasi#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jacksonkasi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/jacksonkasi555#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/jacksonkasi555#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/Jacksonkasi11#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Jacksonkasi11#gh-dark-mode-only)
