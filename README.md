@@ -9,7 +9,7 @@
 <span align="left"><img src="https://komarev.com/ghpvc/?username=jacksonkasi0" alt="Views" /><span/>   ![Last Modified](<https://img.shields.io/badge/Last%20Modified-2022/03/31%2000:15%20(IST)-%23121212?style=flat>)
 
 
-<a href="https://dev.to/jacksonkasi" target="_blank" ><img width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-x9ufWwD2I5lfAm1ud5f-qJQqgPUqIVrEXEI7VrgMAz_PfhbjtVJ_sOM&s=10" /></a>
+<a href="https://dev.to/jacksonkasi" target="_blank" ><img width="35px" src="./img/animate/dev.png" /></a>
 <a href="mailto:nammalvar888@gmail.com" target="_blank" ><img  width="32px"   src="./img/animate/mail.gif" /></a>
 
 
