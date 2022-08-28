@@ -17,7 +17,7 @@
   
 <p align="center">
   <a href="https://dev.to/jacksonkasi">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,mui,tailwind,js,react,nextjs,redux,nodejs,express,graphql,apollo,mongodb,firebase,azure,netlify,heroku,vercel,git,github,gitlab,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,mui,tailwind,js,react,nextjs,redux,nodejs,express,graphql,apollo,mongodb,postgresql,firebase,azure,netlify,heroku,vercel,git,github,gitlab,vscode&perline=9" />
   </a>
 </p>
 
