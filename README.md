@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Technical Ideology about your project**. Feel free to ask anything, be it technical or friendly conversations!
 
-- 📫 How to reach me **jacksonkasipeacock@gmail.com**
+- 📫 How to reach me **jacksonkasi00@gmail.com**
 
 - 🌐 Languages: **Tamil, English**
 
